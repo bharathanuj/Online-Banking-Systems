@@ -43,6 +43,8 @@ Admin.
   Keeps track of all modules with errors and modules that work correctly
 #### Debugging report:
   Rectified errors are mentioned in this report
+ #### Transaction report:
+ this report shows the transaction made by all users in a day
   
 ### Technologies required:
 #### Software requirements:
