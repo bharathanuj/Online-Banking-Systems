@@ -32,130 +32,135 @@ Transaction history,
 Cards,
 Admin.
 ### Forms :
-1.	Login 
+## 1.	Login 
 
-  i.	Login form 
-  
-  ii.	Forgot password form 
-  
-  iii.	OTP form 
-  
-2.	Accounts
+    i.	Login form 
 
-  i.	Current account form
-  
-  ii.	Savings account form
-  
-  iii.	Download statement form
-  
-  iv.	Add beneficiary form
-  
-  v.	update beneficiary form 
-  
-  vi.	Delete beneficiary form  
-  
-  vii.	Request for check book form
-  
-  viii.	Fixed deposit form 
-  
-  ix.	6 OTP forms for each above-mentioned process
-  
-3.	Transfers
+    ii.	Forgot password form 
 
-  i.	Transfer within the bank form 
-  
-  ii.	Transfer using IMPS form
-  
-  iii.	Transfer using NEFT form
-  
-  iv.	Transfer using RTGS form 
-  
-  v.	4 OTP forms for each above-mentioned process
-  
-4.	Cards
+    iii.	OTP form 
 
-  i.	Apply for a card form 
-  
-  ii.	Download statement form 
-  
-  iii.	Change pin form 
-  
-  iv.	Check limit form 
-  
-  v.	Block card form 
-  
-  vi.	Renewal card form 
-  
-  vii.	6 OTP forms for each above-mentioned process
-  
-5.	Bill payment 
+## 2.	Accounts
 
-  i.	Prepaid recharge form 
-  
-  ii.	Postpaid recharge form 
-  
-  iii.	D2H recharge form
-  
-  iv.	OTTs recharge form
- 
-  v.	Water, gas bill form 
- 
-  vi.	Tax payment form 
-  
-  vii.	Loan interest form 
-  
-  viii.	Hospital bill form 
-  
-  ix.	8 OTP forms for each above-mentioned process
-  
-6.	Loans
-  
-  i.	Apply for a personal loan form 
-  ii.	 Apply for a house loan form 
-  iii.	Apply for a vehicle loan form 
-  iv.	Apply for a educational loan form 
-  v.	Apply for a gold loan form
-  vi.	5 OTP forms for each above-mentioned process
-  
-7.	Insurance
-  
-  i.	Apply for a life insurance form 
-  
-  ii.	Apply for a family insurance form
-  
-  iii.	Apply for a health insurance form 
-  
-  iv.	Apply for a retirement insurance form 
-  
-  v.	Apply for a vehicle insurance form 
-  
-  vi.	Apply for a property insurance form 
-  
-  vii.	6 OTP forms for each above-mentioned process
-  
-8.	Settings
+    i.	Current account form
 
-  i.	Update profile form 
-  
-  ii.	Password change form 
-  
-  iii.	Update security questions form 
-  
-  iv.	2 OTP forms for each above-mentioned process
-  
-9.	Feedback
+    ii.	Savings account form
 
-  i.	Feedback on website form 
+    iii.	Download statement form
+
+    iv.	Add beneficiary form
+
+    v.	update beneficiary form 
+
+    vi.	Delete beneficiary form  
+
+    vii.	Request for check book form
+
+    viii.	Fixed deposit form 
+
+    ix.	6 OTP forms for each above-mentioned process
   
-  ii.	Feedback on cards management form 
+## 3.	Transfers
+
+    i.	Transfer within the bank form 
+
+    ii.	Transfer using IMPS form
+
+    iii.	Transfer using NEFT form
+
+    iv.	Transfer using RTGS form 
+
+    v.	4 OTP forms for each above-mentioned process
   
-  iii.	Feedback on transactions form 
+## 4.	Cards
+
+    i.	Apply for a card form 
+
+    ii.	Download statement form 
+
+    iii.	Change pin form 
+
+    iv.	Check limit form 
+
+    v.	Block card form 
+
+    vi.	Renewal card form 
+
+    vii.	6 OTP forms for each above-mentioned process
   
-  iv.	Feedback on account management form 
+## 5.	Bill payment 
+
+    i.	Prepaid recharge form 
+
+    ii.	Postpaid recharge form 
+
+    iii.	D2H recharge form
+
+    iv.	OTTs recharge form
+
+    v.	Water, gas bill form 
+
+    vi.	Tax payment form 
+
+    vii.	Loan interest form 
+
+    viii.	Hospital bill form 
+
+    ix.	8 OTP forms for each above-mentioned process
   
-  v.	“Raise an issue form” form 
+## 6.	Loans
   
-  vi.	Bug report to developer form 
+    i.	Apply for a personal loan form 
+    
+    ii.	 Apply for a house loan form 
+    
+    iii.	Apply for a vehicle loan form
+    
+    iv.	Apply for a educational loan form
+    
+    v.	Apply for a gold loan form
+    
+    vi.	5 OTP forms for each above-mentioned process
+  
+## 7.	Insurance
+
+    i.	Apply for a life insurance form 
+
+    ii.	Apply for a family insurance form
+
+    iii.	Apply for a health insurance form 
+
+    iv.	Apply for a retirement insurance form 
+
+    v.	Apply for a vehicle insurance form 
+
+    vi.	Apply for a property insurance form 
+
+    vii.	6 OTP forms for each above-mentioned process
+  
+## 8.	Settings
+
+    i.	Update profile form 
+
+    ii.	Password change form 
+
+    iii.	Update security questions form 
+
+    iv.	2 OTP forms for each above-mentioned process
+  
+## 9.	Feedback
+
+    i.	Feedback on website form 
+
+    ii.	Feedback on cards management form 
+
+    iii.	Feedback on transactions form 
+
+    iv.	Feedback on account management form 
+
+    v.	“Raise an issue form” form 
+
+    vi.	Bug report to developer form 
 
 ### Reports:
 #### User Feedback Report
